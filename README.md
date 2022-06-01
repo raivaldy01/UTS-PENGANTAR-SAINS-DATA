@@ -1,7 +1,7 @@
 # UTS-PENGANTAR-SAINS-DATA
-13119756
-MOCHAMAD RAIVALDY
-3KA18
+# 13119756<br>
+# MOCHAMAD RAIVALDY<br>
+# 3KA18<br>
 
 Hasil:<br>
 5. Jelaskan setiap langkah run yang sudah anda buat!<br>
