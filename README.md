@@ -7,7 +7,7 @@ penjelasan setiap langkah ada didalam file notebook google colab (*.ipynb)<br>
 
 <br>3. Hasil prediksi tanggal 29 September 2021<br>
 ![image](https://user-images.githubusercontent.com/104556171/171327237-32f4e8bc-4a6b-463c-9c7d-2df7fdfa76d9.png)<br>
-data pada tanggal 29 ini akan menjadi masukkan dari model untuk memprediksi harga aktual nya pada tanggal 29 sebelumnya yaitu USD DOLLAR 2690.419922 lalu didapatkan hasil model yang tampaknya memiliki performa terbaik adalah model RBF SVR. Model ini memperkirakan nilai USD DOLLAR 2669.13451364 ketika harga sebenarnya adalah USD DOLLAR 2690.419922 , jadi hanya turun sekitar USD DOLLAR 21
+data pada tanggal 29 September 2021 ini akan menjadi masukkan dari model untuk memprediksi harga aktual nya pada tanggal 29 September 2021 sebelumnya yaitu USD DOLLAR 2690.419922 lalu didapatkan hasil model yang tampaknya memiliki performa terbaik adalah model RBF SVR. Model ini memperkirakan nilai USD DOLLAR 2669.13451364 ketika harga sebenarnya adalah USD DOLLAR 2690.419922 , jadi hanya turun sekitar USD DOLLAR 21
 <br>
 <br>
 
